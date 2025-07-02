@@ -1,9 +1,9 @@
 streamlit
-langchain
-langchain-community
-langchain-openai
-langchain-core
-langchain-chroma
+langchain>=0.2.9
+langchain-core>=0.1.42
+langchain-community>=0.0.24
+langchain-openai>=0.1.8
+langchain-chroma>=0.0.9
+langchain-text-splitters>=0.0.1
+PyPDF2
 pysqlite3-binary
-pypdf
-langchain-text-splitters
